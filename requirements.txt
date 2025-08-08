@@ -1,0 +1,9 @@
+click
+numpy
+numba
+matplotlib
+shapely
+pandas
+scipy
+imageio
+shapelysmooth
